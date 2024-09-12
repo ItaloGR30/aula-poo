@@ -1,0 +1,14 @@
+D:\Users\20231170150008\Documents\GitHub\aula-poo\bin\Debug\net8.0\aula-poo.exe
+D:\Users\20231170150008\Documents\GitHub\aula-poo\bin\Debug\net8.0\aula-poo.deps.json
+D:\Users\20231170150008\Documents\GitHub\aula-poo\bin\Debug\net8.0\aula-poo.runtimeconfig.json
+D:\Users\20231170150008\Documents\GitHub\aula-poo\bin\Debug\net8.0\aula-poo.dll
+D:\Users\20231170150008\Documents\GitHub\aula-poo\bin\Debug\net8.0\aula-poo.pdb
+D:\Users\20231170150008\Documents\GitHub\aula-poo\obj\Debug\net8.0\aula-poo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\20231170150008\Documents\GitHub\aula-poo\obj\Debug\net8.0\aula-poo.AssemblyInfoInputs.cache
+D:\Users\20231170150008\Documents\GitHub\aula-poo\obj\Debug\net8.0\aula-poo.AssemblyInfo.cs
+D:\Users\20231170150008\Documents\GitHub\aula-poo\obj\Debug\net8.0\aula-poo.csproj.CoreCompileInputs.cache
+D:\Users\20231170150008\Documents\GitHub\aula-poo\obj\Debug\net8.0\aula-poo.dll
+D:\Users\20231170150008\Documents\GitHub\aula-poo\obj\Debug\net8.0\refint\aula-poo.dll
+D:\Users\20231170150008\Documents\GitHub\aula-poo\obj\Debug\net8.0\aula-poo.pdb
+D:\Users\20231170150008\Documents\GitHub\aula-poo\obj\Debug\net8.0\aula-poo.genruntimeconfig.cache
+D:\Users\20231170150008\Documents\GitHub\aula-poo\obj\Debug\net8.0\ref\aula-poo.dll
